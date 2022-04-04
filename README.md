@@ -1,6 +1,6 @@
 # v2ray-heroku
 > 部署
-# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/xuiv/v2ray-heroku)
+# 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://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@github.com/yunus-25jmi/HEROKU-Cli)，[一键部署到heroku](https://heroku.com/deploy?template=https://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@github.com/yunus-25jmi/HEROKU-Cli)
 
 客户端config.json设置如下：
 ```
